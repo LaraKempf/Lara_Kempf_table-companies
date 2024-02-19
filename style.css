@@ -1,0 +1,22 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+table {
+    width: 800px;
+    height: 300px;
+    border: 5px solid black;
+}
+
+th,
+td {
+    padding: 30px;
+}
+
+.comp {
+    font-weight: 600;
+}
